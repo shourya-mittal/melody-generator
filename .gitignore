@@ -7,7 +7,6 @@ myvenv/
 venv/
 
 # Temporary / generated files
-uploaded_files/
 *.midi
 *.mid
 
