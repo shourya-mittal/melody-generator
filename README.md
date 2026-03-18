@@ -23,9 +23,7 @@ It demonstrates the application of deep learning to creative domains like music 
 
 ## 🎥 Demo
 
-_A short demo of melody generation will be added here._
-
-<!-- Later you can add a GIF or video -->
+https://github.com/user-attachments/assets/f4a5aa7d-c2d5-4af2-8f9e-911143cf0414
 
 ---
 
