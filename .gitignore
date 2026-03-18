@@ -6,9 +6,9 @@ __pycache__/
 myvenv/
 venv/
 
-# Temporary / generated files
-*.midi
-*.mid
+# Generated melody outputs only
+mel_regenerated.midi
+mel.mid
 
 # OS files
 .DS_Store
